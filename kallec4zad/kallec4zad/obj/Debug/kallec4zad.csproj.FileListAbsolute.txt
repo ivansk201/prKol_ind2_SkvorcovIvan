@@ -1,0 +1,8 @@
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\kollec\zad4\kallec4zad\kallec4zad\bin\Debug\kallec4zad.exe.config
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\kollec\zad4\kallec4zad\kallec4zad\bin\Debug\kallec4zad.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\kollec\zad4\kallec4zad\kallec4zad\bin\Debug\kallec4zad.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\kollec\zad4\kallec4zad\kallec4zad\obj\Debug\kallec4zad.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\kollec\zad4\kallec4zad\kallec4zad\obj\Debug\kallec4zad.csproj.SuggestedBindingRedirects.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\kollec\zad4\kallec4zad\kallec4zad\obj\Debug\kallec4zad.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\kollec\zad4\kallec4zad\kallec4zad\obj\Debug\kallec4zad.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\kollec\zad4\kallec4zad\kallec4zad\obj\Debug\kallec4zad.pdb

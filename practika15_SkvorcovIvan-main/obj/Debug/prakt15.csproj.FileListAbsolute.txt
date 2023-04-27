@@ -1,0 +1,34 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\bin\Debug\prakt15.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\bin\Debug\prakt15.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\bin\Debug\prakt15.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\obj\Debug\prakt15.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\obj\Debug\prakt15.Form1.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\obj\Debug\prakt15.Properties.Resources.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\obj\Debug\prakt15.csproj.GenerateResource.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\obj\Debug\prakt15.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\obj\Debug\prakt15.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\obj\Debug\prakt15.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prakt15\prakt15\obj\Debug\prakt15.AddStudentForm.resources
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\bin\Debug\prakt15.exe.config
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\bin\Debug\prakt15.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\bin\Debug\prakt15.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.csproj.SuggestedBindingRedirects.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.AddStudentForm.resources
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.Form1.resources
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.Properties.Resources.resources
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.csproj.GenerateResource.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Основы алгоритмизации\test-main\obj\Debug\prakt15.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\bin\Debug\prakt15.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\bin\Debug\prakt15.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\bin\Debug\prakt15.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\obj\Debug\prakt15.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\obj\Debug\prakt15.AddStudentForm.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\obj\Debug\prakt15.Form1.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\obj\Debug\prakt15.Properties.Resources.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\obj\Debug\prakt15.csproj.GenerateResource.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\obj\Debug\prakt15.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\obj\Debug\prakt15.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\test-main\obj\Debug\prakt15.pdb
